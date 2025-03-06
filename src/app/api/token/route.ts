@@ -18,7 +18,7 @@ export async function GET(req: Request) {
     const client = new AssemblyAI({ apiKey });
     
     // Create a temporary token using the API key
-    // This token will be valid for 60 seconds
+    // This token will be valid for 10 minutes
     const tempToken = await client.realtime.createTemporaryToken({ 
       expires_in: 600
     });
