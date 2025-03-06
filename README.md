@@ -2,6 +2,9 @@
 
 A Next.js application demonstrating real-time audio streaming and transcription using AssemblyAI's Real-Time API.
 
+![Screenshot 2025-03-06 at 13 12 34](https://github.com/user-attachments/assets/6df7bc58-889c-49f0-ac82-f72c2f138263)
+
+
 ## ✨ Features
 
 - 🎤 Microphone input streaming
